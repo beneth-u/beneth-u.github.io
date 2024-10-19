@@ -1,0 +1,36 @@
+body{
+	font-family:"Courier New";
+	background-image: linear-gradient(to bottom right,rgb(237, 221, 110), rgb(248, 253, 137));
+	margin:0px;
+}
+
+
+#title-one{
+width:60vw;
+margin-left:20vw;
+margin-right:20vw;
+background-color:rgb(210,210,210);
+text-align:center;
+}
+
+img{
+	margin-left:7.5%;
+	margin-right:7.5%;
+}
+
+#title{
+	margin:0px;
+}
+
+#main-text{
+	width:60vw;
+	margin-left:20vw;
+	margin-right:20vw;
+	margin-top:2vh;
+	margin-bottom:2vh;
+	background-color:rgb(252,253,255);
+}
+
+p{
+	text-align:center;
+}
